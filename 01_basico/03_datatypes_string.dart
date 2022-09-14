@@ -1,3 +1,5 @@
+import 'dart:ffi';
+
 main() {
   String nombre = 'tony';
   String apellido = "stark";
@@ -20,4 +22,7 @@ main() {
     </html>
   ''';
   print(parrafo);
+
+  String numero = '150';
+  print(1 + int.parse(numero));
 }
