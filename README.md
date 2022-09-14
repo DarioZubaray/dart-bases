@@ -32,3 +32,13 @@
 - [Funciones de flecha](/03_funciones/04_flecha.dart)
 - [Callbacks](/03_funciones/05_callback.dart)
 - [Tarea sobre funciones](/03_funciones/06_tarea_funciones.dart)
+
+
+#### 04 Tipos no comunes
+- [Queue](/04_tipos_no_comunes/01_queue.dart)
+- [Enum](/04_tipos_no_comunes/02_enum.dart)
+- [Future](/04_tipos_no_comunes/03_future.dart)
+- [Future](/04_tipos_no_comunes/04_future_2.dart)
+- [Async - Await](/04_tipos_no_comunes/05_async_await.dart)
+- [CatchError](/04_tipos_no_comunes/06_catcherror.dart)
+- [Stream](/04_tipos_no_comunes/07_stream.dart)
