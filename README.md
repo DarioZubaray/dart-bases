@@ -42,3 +42,27 @@
 - [Async - Await](/04_tipos_no_comunes/05_async_await.dart)
 - [CatchError](/04_tipos_no_comunes/06_catcherror.dart)
 - [Stream](/04_tipos_no_comunes/07_stream.dart)
+
+
+#### 05 Clases
+- [Clase](/05_clases/01_clase.dart)
+- [Propiedades Finales](/05_clases/01_propiedades_finales.dart)
+- [Constructores constantes](/05_clases/01_constructores_constantes.dart)
+- [Constructor factory](/05_clases/01_factory_constructor.dart)
+- [Miembros Estaticos](/05_clases/01_estaticos.dart)
+- [Singleton](/05_clases/01_singleton.dart)
+
+
+#### 06 Clases avanzadas
+- [Extends](/06_clases_adv/01_extends.dart)
+- [Clase abstracta](/06_clases_adv/01_abtractas.dart)
+- [Super](/06_clases_adv/01_super_constructor.dart)
+- [Override](/06_clases_adv/01_override.dart)
+- [Mixins](/06_clases_adv/01_mixins.dart)
+
+
+#### 07 Documentacion
+- [Double](/07_docs/01_double.dart)
+- [String](/07_docs/01_string.dart)
+- [List](/07_docs/01_list.dart)
+- [Map](/07_docs/01_maps.dart)
